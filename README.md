@@ -1,9 +1,5 @@
 # Sales-Funnel-Sale-Analysis
 
-Absolutely! Here's a **simple and clean version** of the README for your GitHub repository, written in plain language:
-
----
-
 # Sales Funnel Dashboard (Tableau)
 
 This Tableau dashboard shows how sales inquiries move through different stages of the sales process over an 8-week period. It helps you understand how well your team is converting leads into consultations, proposals, and final sales.
