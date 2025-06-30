@@ -1,4 +1,3 @@
-# Sales-Funnel-Sale-Analysis
 
 # Sales Funnel Dashboard (Tableau)
 
