@@ -4,6 +4,9 @@
 
 This Tableau dashboard shows how sales inquiries move through different stages of the sales process over an 8-week period. It helps you understand how well your team is converting leads into consultations, proposals, and final sales.
 
+![Screenshot (16)](https://github.com/user-attachments/assets/12a099ec-c71c-4eef-acb1-8d3a052b080b)
+
+
 ## What the Dashboard Shows
 
 * **Weekly Sales Funnel Performance**
@@ -38,7 +41,5 @@ This Tableau dashboard shows how sales inquiries move through different stages o
 2. Use the filters at the top to adjust by date, state, or project type.
 3. Hover over any circle to see the exact percentage or number.
 
-## Screenshot
 
-<img width="960" alt="2025-06-30 (1)" src="https://github.com/user-attachments/assets/cc27ce79-c165-4613-b6a4-9c72f0b72a71" />
 
